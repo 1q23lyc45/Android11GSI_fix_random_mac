@@ -1,0 +1,6 @@
+id=gsi_network_fix
+name=GSI Network Fixer (Android 11)
+version=1.0
+versionCode=1
+author=null
+description=Fix wifi random MAC not working.
